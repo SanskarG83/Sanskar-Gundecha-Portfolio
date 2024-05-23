@@ -1,0 +1,78 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Languages",
+      "description": "JAVA, C++, PYTHON, C"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Web Devlopment",
+      "description": "HTML    CSS   JAVASCRIPT   REACT.JS   ANGULAR   TYPESCRIPT   Express BOOTSTRAP TAILWIND-CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "App Development",
+      "description": "JAVA FLUTTER ANDROID-STUDIO JDK "
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      "title": "DataBaseS",
+      "description": "SQL MY-SQL MONGODB APPWRITE FIREBASE"
+    }
+    
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Video Dubbing System",
+      "description": "The platform which extracts audio from any input video in English, translates audio in other 50 Indian languages with subtitles and most importantly, it geneates dubbed video in nearly 50 languages.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Smart Attendance Tool",
+      "description": "The GUI made using Python which helps to store the Student Data and mark attendance. Attendance sheet is also generated which could be shared on Teachers mail.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Hajeri - The SmartTool",
+      "description": "A flutter application to automate the attendance using 3 features such as admin permission, Location and Fingerprint",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
