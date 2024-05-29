@@ -1,4 +1,10 @@
 export default function HeroSection() {
+  const email = "your.email@example.com"; // Replace this with your actual email address
+
+  const handleGetInTouch = () => {
+    window.location.href = `mailto:${'sanskar.gundecha03@gmail.com'}`;
+  };
+
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
@@ -14,7 +20,7 @@ export default function HeroSection() {
             <br />
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button className="btn btn-primary" onClick={handleGetInTouch}>Get In Touch</button>
       </div>
       <div className="hero--section--img">
         <img src="./img/heroimg (2).jpeg" alt="Hero Section" />
