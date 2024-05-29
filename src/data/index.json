@@ -10,13 +10,13 @@
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Web Devlopment",
-      "description": "HTML    CSS   JAVASCRIPT   REACT.JS   ANGULAR   TYPESCRIPT   Express BOOTSTRAP TAILWIND-CSS"
+      "description": "HTML CSS JAVASCRIPT REACT.JS ANGULAR TYPESCRIPT Express BOOTSTRAP TAILWIND-CSS"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-1.png",
       "title": "App Development",
-      "description": "JAVA FLUTTER ANDROID-STUDIO JDK "
+      "description": "JAVA FLUTTER ANDROID-STUDIO JDK"
     },
     {
       "id": "4",
