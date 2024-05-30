@@ -46,7 +46,20 @@ function Footer() {
                 to="AboutMe"
                 className="text-md"
               >
-                About Me
+                About
+              </Link>
+            </li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="mySkills"
+                className="text-md"
+              >
+                Skills
               </Link>
             </li>
             <li>
@@ -60,19 +73,6 @@ function Footer() {
                 className="text-md"
               >
                 Contact
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
               </Link>
             </li>
           </ul>
