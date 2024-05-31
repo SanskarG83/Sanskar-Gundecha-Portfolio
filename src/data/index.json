@@ -32,26 +32,46 @@
       "src": "./img/placeholder-image.png",
       "title": "Video Dubbing System",
       "description": "The platform which extracts audio from any input video in English, translates audio in other 50 Indian languages with subtitles and most importantly, it geneates dubbed video in nearly 50 languages.",
-      "link": "View In Github"
+      "ref": "View In Github",
+      "link": "https://github.com/SanskarG83/Dubwizz-Video-Dubbing-System"
+
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Smart Attendance Tool",
       "description": "The GUI made using Python which helps to store the Student Data and mark attendance. Attendance sheet is also generated which could be shared on Teachers mail.",
-      "link": "View In Github"
+      "ref": "View In Github",
+      "link": "https://github.com/SanskarG83/Image-Based-Attendance-System"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
+      "src": "./img/placeholder-image-4.png",
+      "title": "Github Repo Listing",
+      "description": "An Angular.js webapp made using Typescript, Tailwind-CSS, HTML, etc. This mainly uses Github API to fetch entire Github user data on the system.",
+      "ref": "View In Github",
+      "link": "https://github.com/SanskarG83/Github-Repo-Listing"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-6.png",
       "title": "Hajeri - The SmartTool",
       "description": "A flutter application to automate the attendance using 3 features such as admin permission, Location and Fingerprint",
-      "link": "View In Github"
+      "ref": "View In Github",
+      "link": "https://github.com/SanskarG83/Hajeri---The-Smart-Attendance"
+    },
+    {
+      "id": "5",
+      "src": "./img/placeholder-image-5.png",
+      "title": "Hostel Finder",
+      "description": "An Android app which is useful for entire Student's community to find accommodations near their college. It helps in reducing the manual work in finding accommodations and cuts the in between brokerage.",
+      "ref": "View In Github",
+      "link": "https://github.com/SanskarG83/Hostel-Finder"
     }
   ],
   "testimonial": [
     {
-      "id": "1",
+      "id": "5",
       "count": "5",
       "src": "./img/avatar-image.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",

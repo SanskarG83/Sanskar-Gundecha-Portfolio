@@ -3,7 +3,7 @@ import data from "../../data/index.json";
 export default function MyPortfolio() {
   const handleGitHubRedirect = () => {
     window.location.href = 'https://github.com/SanskarG83';
-  }; 
+  };
 
   return (
     <section className="portfolio--section" id="MyPortfolio">
@@ -44,7 +44,7 @@ export default function MyPortfolio() {
               </div>
               <p className="text-sm portfolio--link">
                 <a href={item.link} target="_blank" rel="noopener noreferrer">
-                  {item.link}
+                  {item.ref}
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="16"
