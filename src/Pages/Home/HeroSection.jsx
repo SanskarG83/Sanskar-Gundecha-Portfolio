@@ -1,6 +1,4 @@
 export default function HeroSection() {
-  const email = "your.email@example.com"; // Replace this with your actual email address
-
   const handleGetInTouch = () => {
     window.location.href = `mailto:${'sanskar.gundecha03@gmail.com'}`;
   };
